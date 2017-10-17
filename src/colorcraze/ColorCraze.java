@@ -15,7 +15,12 @@ public class ColorCraze {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+       MainTitle main = new MainTitle();
+       
+       main.setVisible(true);
+       
+       
+       
     }
     
 }
